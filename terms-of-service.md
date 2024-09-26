@@ -9,8 +9,11 @@ By accessing and using Calm Space (the "Service"), you agree to be bound by thes
 ## 2. Subscription
 
 2.1. Calm Space offers subscription-based access to premium features.
+
 2.2. Subscriptions will automatically renew unless canceled at least 24 hours before the end of the current period.
+
 2.3. You can cancel your subscription anytime through your Google Play account settings.
+
 
 ## 3. Use of Service
 
