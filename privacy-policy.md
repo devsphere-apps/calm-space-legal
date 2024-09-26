@@ -24,7 +24,7 @@ Calm Space may use third-party services, such as payment processors or analytics
 
 ## 5. Your Rights
 
-You have the right to access, update, or delete your personal information. You can do this through your account settings or by contacting us directly.
+You have the right to access, update, or delete your personal information. You can do this through the account deletion link in the Play Store safety section or by contacting us directly.
 
 ## 6. Changes to This Privacy Policy
 
